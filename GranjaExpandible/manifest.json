@@ -1,0 +1,10 @@
+{
+  "Name": "Granja Expandible",
+  "Author": "Luuuuuw_",
+  "Version": "1.0.0",
+  "Description": "Permite expandir la granja, modificar agua y romper arbustos.",
+  "UniqueID": "Luuuuuw_.GranjaExpandible",
+  "EntryDll": "GranjaExpandible.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

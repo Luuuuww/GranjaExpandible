@@ -1,0 +1,15 @@
+﻿{
+	"Custom_Expansion1": {
+		"Name": "Custom_Expansion1",
+		"Cost": 5000,
+		"BuildMaterials": {
+			"388": 100,
+			"390": 50
+		},
+		"BuildDays": 2,
+		"Size": [ 3, 3 ],
+		"SourceRect": [ 0, 0, 32, 32 ],
+		"MapToLoad": "Maps/Custom_Expansion1",
+		"Description": "Una gran expansión para tu granja."
+	}
+}
